@@ -1,0 +1,37 @@
+﻿[
+        {
+            "Diena": "Pirmdiena",
+            "nr": "0",
+            "prieksmets": "Vēsture",
+            "pasniedzejs": "Andris Bērziņš",
+            "laiks": "9:15 - 9:55"
+        },
+        {
+            "Diena": "Pirmdiena",
+            "nr": "1",
+            "prieksmets": "Sports",
+            "pasniedzejs": "Pēteris Skuja",
+            "laiks": "10:15 - 10:55"
+        },
+        {
+            "Diena": "Pirmdiena",
+            "nr": "2",
+            "prieksmets": "Ekonomika",
+            "pasniedzejs": "Anna Panna",
+            "laiks": "11:20 - 12:05"
+        },
+        {
+            "Diena": "Pirmdiena",
+            "nr": "3",
+            "prieksmets": "Matemātika",
+            "pasniedzejs": "Valdis Liepa",
+            "laiks": "12:35 - 13:05"
+        },
+        {
+            "Diena": "Pirmdiena",
+            "nr": "4",
+            "prieksmets": "Mājturība",
+            "pasniedzejs": "Elita Bērziņa",
+            "laiks": "12:20 - 14:00"
+        }
+]
